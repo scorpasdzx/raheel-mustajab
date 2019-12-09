@@ -18,3 +18,4 @@ fn receiver(morning:String)->(String, usize){
     let length = morning.len();
     (morning, length) //no drop function will be called for morning
 }
+//testing comment
